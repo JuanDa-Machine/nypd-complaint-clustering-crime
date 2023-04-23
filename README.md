@@ -5,15 +5,15 @@ Using techniques such as k-means, hierarchical clustering, and DBSCAN, we analyz
 
 This repository contains the code, data, and results of our clustering analysis, along with documentation and instructions for reproducing the results. We encourage others to build on our work and contribute to the development of more effective crime prevention strategies.
 
-###Features
+### Features
 Implementation of various clustering models: k-means, hierarchical clustering, and DBSCAN
 Visualization of crime patterns and hotspots
 Reproducible analysis with documented code and data
 Getting Started
 To get started with our clustering analysis, simply clone this repository and follow the instructions in the README.md file. You will need to have Python and relevant machine learning libraries installed on your system.
 
-###Contributions
+### Contributions
 We welcome contributions from anyone interested in improving our clustering analysis or building on our work. Please submit a pull request with your changes, and we will review them as soon as possible.
 
-###License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
