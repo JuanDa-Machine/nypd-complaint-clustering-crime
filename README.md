@@ -10,10 +10,10 @@ Implementation of various clustering models: K-means with and without PCA, and K
 Visualization of crime patterns and hotspots
 Reproducible analysis with documented code and data
 Getting Started
-To get started with our clustering analysis, simply clone this repository and follow the instructions in the README.md file. You will need to have Python and relevant machine learning libraries installed on your system.
+To get started with our clustering analysis, simply clone this repository, pull the data from: https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i and start executing the notebooks in the following order: NYC_Crime_Baseline, EDA_2016_2019, NYC_MANHATTAN, NYC_BROOKLYN and finally NYC_BRONX. You will need to have Python and relevant machine learning libraries installed on your system.
 
 ### Contributions
-We welcome contributions from anyone interested in improving this clustering analysis or building on our work. Please submit a pull request with your changes, and it will be reviewed as soon as possible.
+Contributions are welcome from anyone interested in improving this clustering analysis or building on our work. Please submit a pull request with your changes, and it will be reviewed as soon as possible.
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
